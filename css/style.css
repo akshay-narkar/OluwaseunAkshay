@@ -1,0 +1,10 @@
+#navbar{
+    float: left;
+}
+
+@media (max-width: 600px) {
+    nav, article {
+      width: 100%;
+      height: auto;
+    }
+  }
